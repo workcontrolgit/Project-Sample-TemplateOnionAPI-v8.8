@@ -1,0 +1,9 @@
+﻿global using Apiresources.Domain.Common;
+global using Apiresources.Domain.Enums;
+global using System;
+global using System.Collections;
+global using System.Collections.Generic;
+global using System.Dynamic;
+global using System.Xml;
+global using System.Xml.Schema;
+global using System.Xml.Serialization;
